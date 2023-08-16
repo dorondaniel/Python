@@ -20,4 +20,4 @@ for j in range(k,len(lst)-1,1):
 
 #Window End
 
-print("Max Sum of a Subarray of the size {} is : {} ".format(k,mxSum))
+print("Max Sum of a Subarray of the size {} is : {} ".format(k,mx))
